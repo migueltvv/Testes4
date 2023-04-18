@@ -1,0 +1,12 @@
+[submodule "LeGO-LOAM"]
+	path = LeGO-LOAM
+	url = https://github.com/migueltvv/LeGO-LOAM
+[submodule "livox_mapping"]
+	path = livox_mapping
+	url = https://github.com/migueltvv/livox_mapping
+[submodule "livox_ros_driver"]
+	path = livox_ros_driver
+	url = https://github.com/migueltvv/livox_ros_driver
+[submodule "traversability_mapping"]
+	path = traversability_mapping
+	url = https://github.com/migueltvv/traversability_mapping
