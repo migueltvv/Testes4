@@ -7,6 +7,7 @@
 subdirs("gtest")
 subdirs("LeGO-LOAM/cloud_msgs")
 subdirs("traversability_mapping/elevation_msgs")
+subdirs("fruc_dataset_choupal_launch")
 subdirs("LeGO-LOAM/LeGO-LOAM")
 subdirs("livox_ros_driver/livox_ros_driver")
 subdirs("livox_mapping")

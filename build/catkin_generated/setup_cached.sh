@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/safe/gitsinced/devel:$CMAKE_PREFIX_PATH"
 export PWD='/home/safe/gitsinced/build'
-export ROSLISP_PACKAGE_DIRECTORIES="/home/safe/gitsinced/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/safe/gitsinced/src:$ROS_PACKAGE_PATH"

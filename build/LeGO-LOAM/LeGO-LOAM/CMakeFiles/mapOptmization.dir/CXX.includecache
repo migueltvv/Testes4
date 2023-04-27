@@ -6,6 +6,24 @@
 
 #IncludeRegexTransform: 
 
+/home/safe/gitsinced/devel/include/cloud_msgs/cloud_info.h
+string
+-
+vector
+-
+memory
+-
+ros/types.h
+-
+ros/serialization.h
+-
+ros/builtin_message_traits.h
+-
+ros/message_operations.h
+-
+std_msgs/Header.h
+-
+
 /home/safe/gitsinced/src/LeGO-LOAM/LeGO-LOAM/include/utility.h
 ros/ros.h
 -

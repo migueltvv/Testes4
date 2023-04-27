@@ -1,0 +1,8 @@
+prefix=/home/safe/gitsinced/install
+
+Name: fruc_dataset_choupal_launch
+Description: Description of fruc_dataset_choupal_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

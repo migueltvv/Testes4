@@ -721,6 +721,12 @@ elevation_msgs_DIR:PATH=/home/safe/gitsinced/devel/share/elevation_msgs/cmake
 //Value Computed by CMake
 elevation_msgs_SOURCE_DIR:STATIC=/home/safe/gitsinced/src/traversability_mapping/elevation_msgs
 
+//Value Computed by CMake
+fruc_dataset_choupal_launch_BINARY_DIR:STATIC=/home/safe/gitsinced/build/fruc_dataset_choupal_launch
+
+//Value Computed by CMake
+fruc_dataset_choupal_launch_SOURCE_DIR:STATIC=/home/safe/gitsinced/src/fruc_dataset_choupal_launch
+
 //The directory containing a CMake configuration file for gencpp.
 gencpp_DIR:PATH=/opt/ros/melodic/share/gencpp/cmake
 
@@ -1138,7 +1144,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=10
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=11
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

@@ -94,6 +94,13 @@
 /home/safe/gitsinced/build/traversability_mapping/elevation_msgs/CMakeFiles/_elevation_msgs_generate_messages_check_deps_OccupancyElevation.dir
 /home/safe/gitsinced/build/traversability_mapping/elevation_msgs/CMakeFiles/elevation_msgs_generate_messages_py.dir
 /home/safe/gitsinced/build/traversability_mapping/elevation_msgs/CMakeFiles/test.dir
+/home/safe/gitsinced/build/fruc_dataset_choupal_launch/CMakeFiles/install/strip.dir
+/home/safe/gitsinced/build/fruc_dataset_choupal_launch/CMakeFiles/edit_cache.dir
+/home/safe/gitsinced/build/fruc_dataset_choupal_launch/CMakeFiles/list_install_components.dir
+/home/safe/gitsinced/build/fruc_dataset_choupal_launch/CMakeFiles/test.dir
+/home/safe/gitsinced/build/fruc_dataset_choupal_launch/CMakeFiles/install/local.dir
+/home/safe/gitsinced/build/fruc_dataset_choupal_launch/CMakeFiles/rebuild_cache.dir
+/home/safe/gitsinced/build/fruc_dataset_choupal_launch/CMakeFiles/install.dir
 /home/safe/gitsinced/build/LeGO-LOAM/LeGO-LOAM/CMakeFiles/install.dir
 /home/safe/gitsinced/build/LeGO-LOAM/LeGO-LOAM/CMakeFiles/list_install_components.dir
 /home/safe/gitsinced/build/LeGO-LOAM/LeGO-LOAM/CMakeFiles/edit_cache.dir

@@ -1,2 +1,2 @@
-LeGO-LOAM/LeGO-LOAM:LeGO-LOAM/cloud_msgs:livox_mapping:livox_ros_driver/livox_ros_driver:traversability_mapping/elevation_msgs:traversability_mapping/traversability_mapping
+LeGO-LOAM/LeGO-LOAM:LeGO-LOAM/cloud_msgs:fruc_dataset_choupal_launch:livox_mapping:livox_ros_driver/livox_ros_driver:traversability_mapping/elevation_msgs:traversability_mapping/traversability_mapping
 -DCATKIN_DEVEL_PREFIX=/home/safe/gitsinced/devel -DCMAKE_INSTALL_PREFIX=/home/safe/gitsinced/install -G Unix Makefiles
