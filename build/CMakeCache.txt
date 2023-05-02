@@ -807,6 +807,12 @@ interactive_markers_DIR:PATH=/opt/ros/melodic/share/interactive_markers/cmake
 laser_geometry_DIR:PATH=/opt/ros/melodic/share/laser_geometry/cmake
 
 //Value Computed by CMake
+lego_loam2_BINARY_DIR:STATIC=/home/safe/gitsinced/build/LeGO-LOAM2/LeGO-LOAM
+
+//Value Computed by CMake
+lego_loam2_SOURCE_DIR:STATIC=/home/safe/gitsinced/src/LeGO-LOAM2/LeGO-LOAM
+
+//Value Computed by CMake
 lego_loam_BINARY_DIR:STATIC=/home/safe/gitsinced/build/LeGO-LOAM/LeGO-LOAM
 
 //Value Computed by CMake
@@ -1144,7 +1150,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=11
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=12
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
