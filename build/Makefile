@@ -1741,58 +1741,6 @@ dynamic_reconfigure_generate_messages_py/fast:
 .PHONY : dynamic_reconfigure_generate_messages_py/fast
 
 #=============================================================================
-# Target rules for targets named featureAssociation2
-
-# Build rule for target.
-featureAssociation2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 featureAssociation2
-.PHONY : featureAssociation2
-
-# fast build rule for target.
-featureAssociation2/fast:
-	$(MAKE) -f LeGO-LOAM2/LeGO-LOAM/CMakeFiles/featureAssociation2.dir/build.make LeGO-LOAM2/LeGO-LOAM/CMakeFiles/featureAssociation2.dir/build
-.PHONY : featureAssociation2/fast
-
-#=============================================================================
-# Target rules for targets named imageProjection2
-
-# Build rule for target.
-imageProjection2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 imageProjection2
-.PHONY : imageProjection2
-
-# fast build rule for target.
-imageProjection2/fast:
-	$(MAKE) -f LeGO-LOAM2/LeGO-LOAM/CMakeFiles/imageProjection2.dir/build.make LeGO-LOAM2/LeGO-LOAM/CMakeFiles/imageProjection2.dir/build
-.PHONY : imageProjection2/fast
-
-#=============================================================================
-# Target rules for targets named mapOptmization2
-
-# Build rule for target.
-mapOptmization2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 mapOptmization2
-.PHONY : mapOptmization2
-
-# fast build rule for target.
-mapOptmization2/fast:
-	$(MAKE) -f LeGO-LOAM2/LeGO-LOAM/CMakeFiles/mapOptmization2.dir/build.make LeGO-LOAM2/LeGO-LOAM/CMakeFiles/mapOptmization2.dir/build
-.PHONY : mapOptmization2/fast
-
-#=============================================================================
-# Target rules for targets named transformFusion2
-
-# Build rule for target.
-transformFusion2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 transformFusion2
-.PHONY : transformFusion2
-
-# fast build rule for target.
-transformFusion2/fast:
-	$(MAKE) -f LeGO-LOAM2/LeGO-LOAM/CMakeFiles/transformFusion2.dir/build.make LeGO-LOAM2/LeGO-LOAM/CMakeFiles/transformFusion2.dir/build
-.PHONY : transformFusion2/fast
-
-#=============================================================================
 # Target rules for targets named livox_ros_driver_generate_messages_eus
 
 # Build rule for target.
@@ -2433,10 +2381,6 @@ help:
 	@echo "... pcl_msgs_generate_messages_cpp"
 	@echo "... dynamic_reconfigure_generate_messages_lisp"
 	@echo "... dynamic_reconfigure_generate_messages_py"
-	@echo "... featureAssociation2"
-	@echo "... imageProjection2"
-	@echo "... mapOptmization2"
-	@echo "... transformFusion2"
 	@echo "... livox_ros_driver_generate_messages_eus"
 	@echo "... _livox_ros_driver_generate_messages_check_deps_CustomMsg"
 	@echo "... livox_ros_driver_gennodejs"

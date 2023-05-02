@@ -175,17 +175,6 @@
 /home/safe/gitsinced/build/LeGO-LOAM/LeGO-LOAM/CMakeFiles/pcl_msgs_generate_messages_cpp.dir
 /home/safe/gitsinced/build/LeGO-LOAM/LeGO-LOAM/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir
 /home/safe/gitsinced/build/LeGO-LOAM/LeGO-LOAM/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir
-/home/safe/gitsinced/build/LeGO-LOAM2/LeGO-LOAM/CMakeFiles/install/strip.dir
-/home/safe/gitsinced/build/LeGO-LOAM2/LeGO-LOAM/CMakeFiles/install.dir
-/home/safe/gitsinced/build/LeGO-LOAM2/LeGO-LOAM/CMakeFiles/rebuild_cache.dir
-/home/safe/gitsinced/build/LeGO-LOAM2/LeGO-LOAM/CMakeFiles/featureAssociation2.dir
-/home/safe/gitsinced/build/LeGO-LOAM2/LeGO-LOAM/CMakeFiles/list_install_components.dir
-/home/safe/gitsinced/build/LeGO-LOAM2/LeGO-LOAM/CMakeFiles/imageProjection2.dir
-/home/safe/gitsinced/build/LeGO-LOAM2/LeGO-LOAM/CMakeFiles/edit_cache.dir
-/home/safe/gitsinced/build/LeGO-LOAM2/LeGO-LOAM/CMakeFiles/mapOptmization2.dir
-/home/safe/gitsinced/build/LeGO-LOAM2/LeGO-LOAM/CMakeFiles/transformFusion2.dir
-/home/safe/gitsinced/build/LeGO-LOAM2/LeGO-LOAM/CMakeFiles/install/local.dir
-/home/safe/gitsinced/build/LeGO-LOAM2/LeGO-LOAM/CMakeFiles/test.dir
 /home/safe/gitsinced/build/livox_ros_driver/livox_ros_driver/CMakeFiles/install/strip.dir
 /home/safe/gitsinced/build/livox_ros_driver/livox_ros_driver/CMakeFiles/install/local.dir
 /home/safe/gitsinced/build/livox_ros_driver/livox_ros_driver/CMakeFiles/list_install_components.dir
